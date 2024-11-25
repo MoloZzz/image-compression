@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d0850ca-b09b-4a6a-9661-38c57c645f9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/onlyNumpy/dct_compressor_numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onlyNumpy/wavelet_compressor_numpy.py" afterDir="false" />
+    <list default="true" id="5d0850ca-b09b-4a6a-9661-38c57c645f9e" name="Changes" comment="feat/ add realization without packages">
+      <change afterPath="$PROJECT_DIR$/src/images/comparison_plot_with_numpy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/compressed_dct.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/compressed_dct_numpy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/compressed_wavelet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/compressed_wavelet_numpy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/original.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/comparison_plot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/compressed_dct.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/compressed_wavelet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/original.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlyNumpy/wavelet_compressor_numpy.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlyNumpy/wavelet_compressor_numpy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +75,18 @@
       <option name="presentableId" value="Default" />
       <updated>1732472007632</updated>
       <workItem from="1732472010765" duration="4308000" />
-      <workItem from="1732481774971" duration="2201000" />
+      <workItem from="1732481774971" duration="2402000" />
+      <workItem from="1732494072085" duration="1254000" />
     </task>
+    <task id="LOCAL-00001" summary="feat/ add realization without packages">
+      <option name="closed" value="true" />
+      <created>1732493973710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732493973710</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,9 +103,13 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat/ add realization without packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat/ add realization without packages" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/picture_compressor$visualizer.coverage" NAME="visualizer Coverage Results" MODIFIED="1732472786726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
-    <SUITE FILE_PATH="coverage/picture_compressor$main.coverage" NAME="main Coverage Results" MODIFIED="1732493702232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/picture_compressor$main.coverage" NAME="main Coverage Results" MODIFIED="1732494985376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/picture_compressor$dct_compressor.coverage" NAME="dct_compressor Coverage Results" MODIFIED="1732472113642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
     <SUITE FILE_PATH="coverage/picture_compressor$wavelet_compressor.coverage" NAME="wavelet_compressor Coverage Results" MODIFIED="1732472747666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
   </component>
